@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppNested Pattern", "ConsoleAppNested Pattern\ConsoleAppNested Pattern.csproj", "{0613D4BF-5F9C-42C0-8DAF-641F9E7DDB0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0613D4BF-5F9C-42C0-8DAF-641F9E7DDB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0613D4BF-5F9C-42C0-8DAF-641F9E7DDB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0613D4BF-5F9C-42C0-8DAF-641F9E7DDB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0613D4BF-5F9C-42C0-8DAF-641F9E7DDB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D01ECB61-1CFC-4861-839D-50EF0B5D1DED}
+	EndGlobalSection
+EndGlobal
